@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/operator_overloading.dir/main.cpp.o CMakeFiles/operator_overloading.dir/curriculum_vitae.cpp.o  -o operator_overloading 

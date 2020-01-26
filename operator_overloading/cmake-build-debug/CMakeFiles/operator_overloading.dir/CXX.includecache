@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sevket/Masaüstü/MyProjects/ClionProjects/operator_overloading/curriculum_vitae.cpp
+curriculum_vitae.h
+/home/sevket/Masaüstü/MyProjects/ClionProjects/operator_overloading/curriculum_vitae.h
+
+/home/sevket/Masaüstü/MyProjects/ClionProjects/operator_overloading/curriculum_vitae.h
+iostream
+-
+string
+-
+sstream
+-
+
+/home/sevket/Masaüstü/MyProjects/ClionProjects/operator_overloading/main.cpp
+iostream
+-
+string
+-
+curriculum_vitae.h
+/home/sevket/Masaüstü/MyProjects/ClionProjects/operator_overloading/curriculum_vitae.h
+
