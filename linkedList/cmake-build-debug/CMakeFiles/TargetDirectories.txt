@@ -1,0 +1,3 @@
+/home/sevket/Masaüstü/MyProjects/ClionProjects/linkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sevket/Masaüstü/MyProjects/ClionProjects/linkedList/cmake-build-debug/CMakeFiles/linkedList.dir
+/home/sevket/Masaüstü/MyProjects/ClionProjects/linkedList/cmake-build-debug/CMakeFiles/edit_cache.dir

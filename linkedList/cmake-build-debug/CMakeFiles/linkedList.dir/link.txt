@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/linkedList.dir/main.cpp.o CMakeFiles/linkedList.dir/unorderedLinkedList.cpp.o CMakeFiles/linkedList.dir/orderedLinkedList.cpp.o CMakeFiles/linkedList.dir/doublyLinkedList.cpp.o  -o linkedList 
