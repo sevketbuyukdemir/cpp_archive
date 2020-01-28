@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stack.dir/main.cpp.o CMakeFiles/stack.dir/stack_with_array.cpp.o CMakeFiles/stack.dir/stack_with_linkedlist.cpp.o  -o stack 
