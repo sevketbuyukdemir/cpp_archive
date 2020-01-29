@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/queues.dir/main.cpp.o CMakeFiles/queues.dir/queues_with_array.cpp.o CMakeFiles/queues.dir/queues_with_linkedlist.cpp.o  -o queues 
